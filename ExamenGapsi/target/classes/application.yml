@@ -1,0 +1,16 @@
+app:
+  version: 0.0.1
+server:
+  port: 8089
+logging:
+  level:
+    org:
+      springframework: DEBUG
+    io:
+      app: DEBUG
+spring:
+  application:
+    name: ExamenGapsi
+  web:
+    resources:
+      static-locations: classpath:/static/, classpath:/static/web/

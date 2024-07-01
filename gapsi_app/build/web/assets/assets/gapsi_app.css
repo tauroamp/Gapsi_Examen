@@ -1,0 +1,61 @@
+/* Base styles */
+.header, .footer{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.logo{
+    z-index:10;
+    margin: 0 50;
+    border: solid red 3px;
+} 
+.foto{
+    border-radius: 100px;
+    border: #126c9f 3px solid;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.headerText, .welcomeText, .versionText{
+    color: #979797;
+}
+.headerText{
+    font-size: 30px;
+}
+.welcomeText{
+    font-size: 25px;
+}
+.versionText{
+    font-size: 15px;
+}
+
+.btnContinuar{
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    font-size: 25px;
+}
+
+
+
+
+/* Larger screens */
+@media (min-width: 992px) {
+    .headerText{
+        font-size: 25px;
+    }
+    .welcomeText{
+        font-size: 20px;
+    }
+    versionText{
+        font-size: 10px;
+    }
+} 
+
+/* Smaller tablets and mobiles */
+@media (max-width: 768px) {
+    .headerText{
+        font-size: 14px;
+    }
+    .welcomeText{
+        font-size: 10px;
+    }
+    .versionText{
+        font-size: 5px;
+    }
+}

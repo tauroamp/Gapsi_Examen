@@ -1,0 +1,9 @@
+mx/com/grupoasesores/examen/rest/ConfigurationController.class
+mx/com/grupoasesores/examen/dto/ConfigurationDto.class
+mx/com/grupoasesores/examen/service/ProveedoresService.class
+mx/com/grupoasesores/examen/rest/ProveedoresController.class
+mx/com/grupoasesores/examen/dto/ProveedorDto.class
+mx/com/grupoasesores/examen/service/impl/ProveedoresServiceImpl.class
+mx/com/grupoasesores/examen/service/impl/ConfigurationServiceImpl.class
+mx/com/grupoasesores/examen/service/ConfigurationService.class
+mx/com/grupoasesores/examen/ExamenGapsiApplication.class

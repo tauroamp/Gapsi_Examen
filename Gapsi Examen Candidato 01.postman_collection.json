@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "9dc1ccb9-ea51-4185-acb6-b69772b2528b",
+		"name": "Gapsi Examen Candidato 01",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10481711"
+	},
+	"item": [
+		{
+			"name": "Configuration",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8088/configuration",
+					"host": [
+						"localhost"
+					],
+					"port": "8088",
+					"path": [
+						"configuration"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Lista de Proveedores",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8088/proveedores/list",
+					"host": [
+						"localhost"
+					],
+					"port": "8088",
+					"path": [
+						"proveedores",
+						"list"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

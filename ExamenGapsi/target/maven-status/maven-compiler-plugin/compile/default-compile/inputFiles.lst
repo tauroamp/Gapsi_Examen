@@ -1,0 +1,9 @@
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/ExamenGapsiApplication.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/dto/ConfigurationDto.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/dto/ProveedorDto.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/rest/ConfigurationController.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/rest/ProveedoresController.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/service/ConfigurationService.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/service/ProveedoresService.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/service/impl/ConfigurationServiceImpl.java
+/home/alex/Documentos/0_OpcionesEmpleo/EspacioTrabajo/ExamenGapsi/src/main/java/mx/com/grupoasesores/examen/service/impl/ProveedoresServiceImpl.java
