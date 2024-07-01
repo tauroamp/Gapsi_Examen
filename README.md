@@ -25,7 +25,7 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 - Se debe abrir una ventana de cmd/terminal en dicha carpeta.
 - Ejecutar la siguiente secuencia: "java -jar
 
-  <h3>Acceder a la app web:</h3>
+<h3>Acceder a la app web:</h3>
 - Una vez en ejecución, mediante un navegador web en la misma maquina, se deberá navegar hacias la url: "http://localhost:8089/".
 
   
