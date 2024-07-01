@@ -12,9 +12,12 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 
 
 <h3>Back (Servidor web y rest services)</h3>
-- Java Springboot
-- Maven
-- Open JDK v17.
+<ul>
+  <li>- Java Springboot</li>
+  <li>- Maven</li>
+  <li>- Open JDK v17.</li>
+</ul>
+
 
 <h3>Requisitos para su ejecución:</h3>
 - Entorno de ejecución virtual de Java, para la versión 17 o superior.
