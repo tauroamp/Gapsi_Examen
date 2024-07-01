@@ -17,7 +17,7 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 <ul>
   <li> Java Springboot</li>
   <li> Maven</li>
-  <li> Open JDK v17.</li>
+  <li> Open JDK v17</li>
 </ul>
 
 
@@ -28,9 +28,17 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 - Desde la carpeta raíz del proyecto, se debe ir a hacia la carpeta: "ExamenGapsi/target/
 
 - Se debe abrir una ventana de cmd/terminal en dicha carpeta.
-- Ejecutar la siguiente secuencia: "java -jar
+- Ejecutar la siguiente secuencia: "java -jar examen-0.0.1-SNAPSHOT.jar"
 
 <h3>Acceder a la app web:</h3>
 - Una vez en ejecución, mediante un navegador web en la misma maquina, se deberá navegar hacias la url: "http://localhost:8089/".
+
+
+<h3>Patrones de diseño utilizados</h3>
+- DTO.
+- Service Layer.
+- Arquitectura de Microservicios.
+- Layered Architecture.
+- Dependency Injection.
 
   
