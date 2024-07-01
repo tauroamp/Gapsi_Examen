@@ -5,17 +5,19 @@ El desarrollo de la aplicación se realizó utilizando las siguientes tecnologí
 
 
 Front (Appweb):
-- Flutter
-- Gradle
-- Android Studio
+<ul>
+<li>- Flutter</li>
+<li>- Gradle</li>
+<li>- Android Studio</li>
+  </ul>
 Se construyeron dos vistas: Una inicial con la presentación y otra con el detalle para la gestión de la lista de proveedores.
 
 
 <h3>Back (Servidor web y rest services)</h3>
 <ul>
-  <li>- Java Springboot</li>
-  <li>- Maven</li>
-  <li>- Open JDK v17.</li>
+  <li> Java Springboot</li>
+  <li> Maven</li>
+  <li> Open JDK v17.</li>
 </ul>
 
 
