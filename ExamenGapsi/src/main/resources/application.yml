@@ -14,4 +14,3 @@ spring:
   web:
     resources:
       static-locations: classpath:/static/, classpath:/static/web/
-  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
