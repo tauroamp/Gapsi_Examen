@@ -35,10 +35,11 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 
 
 <h3>Patrones de diseño utilizados</h3>
-- DTO.
-- Service Layer.
-- Arquitectura de Microservicios.
-- Layered Architecture.
-- Dependency Injection.
-
+<ul>
+  <li>DTO</li>li>
+  <li>Service Layer</li>
+  <li>Arquitectura de Microservicios</li>
+  <li>Layered Architecture</li>
+  <li>Dependency Injection</li>
+</ul>
   
