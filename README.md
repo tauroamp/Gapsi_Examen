@@ -5,6 +5,7 @@ El desarrollo de la aplicación se realizó utilizando las siguientes tecnologí
 
 
 <h3>Front (Appweb):</h3>
+Folder: "gapsi_app"
 <ul>
 <li>- Flutter</li>
 <li>- Gradle</li>
@@ -14,6 +15,7 @@ Se construyeron dos vistas: Una inicial con la presentación y otra con el detal
 
 
 <h3>Back (Servidor web y rest services)</h3>
+Folder: "ExamenGapsi"
 <ul>
   <li> Java Springboot</li>
   <li> Maven</li>
