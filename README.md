@@ -38,7 +38,7 @@ Folder: "ExamenGapsi"
 
 <h3>Patrones de diseño utilizados</h3>
 <ul>
-  <li>DTO</li>li>
+  <li>DTO</li>
   <li>Service Layer</li>
   <li>Arquitectura de Microservicios</li>
   <li>Layered Architecture</li>
